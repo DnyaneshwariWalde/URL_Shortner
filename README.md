@@ -43,8 +43,4 @@ We have exciting features in the pipeline that will be added to the URL Shortene
 
 Contributions are welcome! If you have any ideas for improvements, bug fixes, or new features, feel free to open an issue or create a pull request.
 
-
----
-
 **Note:** The URL Shortener application is intended for educational and personal use only. It is not meant for production environments and should not be used to shorten sensitive or critical URLs.
-```
