@@ -18,7 +18,7 @@ URL Shortener is a web application that allows users to convert long URLs into s
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/url-shortener.git
+   git clone https://github.com/DnyaneshwariWalde/URL_Shortner.git
    
    ```
 
