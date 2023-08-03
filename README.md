@@ -15,7 +15,7 @@ URL Shortener is a web application that allows users to convert long URLs into s
 
 ## Preview
 
-You can see a live preview of the AnnaBramha Restaurant Website by visiting [here]().
+You can see a live preview of the URL_Shortner by visiting [here](https://dnyaneshwariwalde.github.io/URL_Shortner/).
 
 
 ## Installation
